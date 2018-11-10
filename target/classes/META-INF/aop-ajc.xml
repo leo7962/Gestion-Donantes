@@ -1,0 +1,27 @@
+<aspectj>
+<aspects>
+<aspect name="com.gestiondonantes.dominio.Organo_Roo_ToString"/>
+<aspect name="com.gestiondonantes.dominio.Donante_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.jsf.OrganoBean_Roo_Serializable"/>
+<aspect name="com.gestiondonantes.jsf.ApplicationBean_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.dominio.Organo_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.gestiondonantes.dominio.Donante_Roo_JavaBean"/>
+<aspect name="com.gestiondonantes.dominio.Donante_Roo_Jpa_Entity"/>
+<aspect name="com.gestiondonantes.dominio.Organo_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.jsf.DonanteBean_Roo_Serializable"/>
+<aspect name="com.gestiondonantes.dominio.Organo_Roo_Jpa_Entity"/>
+<aspect name="com.gestiondonantes.jsf.converter.OrganoConverter_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.jsf.DonanteBean_Roo_ManagedBean"/>
+<aspect name="com.gestiondonantes.jsf.converter.OrganoConverter_Roo_Converter"/>
+<aspect name="com.gestiondonantes.jsf.DonanteBean_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.jsf.ApplicationBean_Roo_ApplicationBean"/>
+<aspect name="com.gestiondonantes.dominio.Organo_Roo_JavaBean"/>
+<aspect name="com.gestiondonantes.dominio.Donante_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.gestiondonantes.jsf.OrganoBean_Roo_ManagedBean"/>
+<aspect name="com.gestiondonantes.jsf.converter.DonanteConverter_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.jsf.OrganoBean_Roo_Configurable"/>
+<aspect name="com.gestiondonantes.dominio.Donante_Roo_ToString"/>
+<aspect name="com.gestiondonantes.jsf.converter.DonanteConverter_Roo_Converter"/>
+</aspects>
+</aspectj>
+
